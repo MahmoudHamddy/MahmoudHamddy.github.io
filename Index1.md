@@ -1,4 +1,4 @@
-<h1>Report about Const and & in C++</h1>
+# Report about Const and & in C++
 <h3>Const usages: </h3>
 
 ### 1. Const keyword.
